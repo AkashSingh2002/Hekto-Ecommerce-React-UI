@@ -1,0 +1,42 @@
+.featured{
+    background-color: #F6F7FB;
+}
+
+.list-img{
+    height: 178px;
+    width: 100%;
+}
+
+.featured-head{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+/* pink */
+
+color: #111C85;
+}
+
+.featured-para{
+    font-family: 'Josefin Sans';
+font-size: 14px;
+line-height: 16px;
+
+color: #151875;
+}
+
+.checked {
+    color: orange;
+  }
+
+.list-para{
+    color: #9295AA;
+}
+
+.list-icon{
+    margin-right: 30px;
+}

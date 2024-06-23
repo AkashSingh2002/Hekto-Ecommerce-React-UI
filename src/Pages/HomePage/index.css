@@ -1,0 +1,78 @@
+.heading b{
+    font-family: 'Josefin Sans';
+font-size: 53px;
+line-height: 82px;
+letter-spacing: 0.015em;
+
+color: #000000;
+}
+
+.heading p{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 28px;
+
+color: #8A8FB9;;
+}
+
+.btnn{
+    background-color: var(--primary-color);
+    width: 163px;
+height: 50px;
+border: none;
+}
+
+.btnn-text{
+    font-family: 'Josefin Sans';
+font-size: 17px;
+line-height: 20px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+.chair-para{
+    font-family: 'Josefin Sans';
+font-size: 21px;
+line-height: 132%;
+/* identical to box height, or 28px */
+
+letter-spacing: 0.015em;
+font-weight: bold;
+
+/* pink */
+
+color: #FB2E86;
+}
+
+.chair-para2{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 30px;
+/* or 176% */
+
+letter-spacing: 0.02em;
+
+color: #B7BACB;
+}
+
+.bg-section{
+    background-image: url(../../Assets/Images/x.png);
+}
+
+.jumbo-pic{
+height: 689px;
+    /* background-image: url(../../Assets/Images/Untitled-removebg-preview.png); */
+}
+
+@media screen and (max-width: 480px) {
+    .h-jp2{
+        display: none;
+    }
+  }
+
+  

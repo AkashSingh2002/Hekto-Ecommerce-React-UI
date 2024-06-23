@@ -1,0 +1,47 @@
+.selectGrid select{
+    background-color: white;
+    border: solid 1px var(--primary-color);
+  }
+  
+  .btn-grid{
+    border-color: var(--primary-color);
+    background-color: white;
+    color: var(--primary-color);
+  }
+  
+  .btn-grid:hover{
+    background-color: var(--primary-color);
+  }
+  
+  .grid-head{
+      color: var(--secondary-color);
+  }
+  
+  .search {
+      width: 100%;
+      position: relative;
+      display: flex;
+    }
+    
+    .searchTerm {
+      width: 100%;
+      padding: 5px;
+      height: 36px;
+      outline: none;
+    }
+    
+    .searchTerm:focus{
+      color: var(--primary-color);
+    }
+    
+    .searchButton {
+      width: 40px;
+      height: 36px;
+      border: 1px solid var(--primary-color);
+      background: var(--primary-color);
+      text-align: center;
+      color: #fff;
+      border-radius: 0 5px 5px 0;
+      cursor: pointer;
+      font-size: 20px;
+    }

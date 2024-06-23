@@ -1,0 +1,30 @@
+.featured{
+    background-color: #F6F7FB;
+}
+
+.featured-img{
+    height: 178px;
+    width: 178px;
+}
+
+.featured-head{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+/* pink */
+
+color: #FB2E86;
+}
+
+.featured-para{
+    font-family: 'Josefin Sans';
+font-size: 14px;
+line-height: 16px;
+
+color: #151875;
+}

@@ -1,0 +1,425 @@
+{
+  "products": {
+    "latestProducts": [
+      {
+        "id": 1,
+        "name": "Cantilever chair",
+        "img": "m.png",
+        "code": "Code - Y523201",
+        "nprice": "$42.00",
+        "oprice": "$65.00"
+      },
+      {
+        "id": 2,
+        "name": "Cantilever chair",
+        "img": "n.png",
+        "code": "Code - Y523201",
+        "nprice": "$42.00",
+        "oprice": "$65.00"
+      },
+      {
+        "id": 3,
+        "name": "Cantilever chair",
+        "img": "c.png",
+        "code": "Code - Y523201",
+        "nprice": "$42.00",
+        "oprice": "$65.00"
+      },
+      {
+        "id": 4,
+        "name": "Cantilever chair",
+        "img": "d.png",
+        "code": "Code - Y523201",
+        "nprice": "$42.00",
+        "oprice": "$65.00"
+      },
+      {
+        "id": 5,
+        "name": "Cantilever chair",
+        "img": "e.png",
+        "code": "Code - Y523201",
+        "nprice": "$42.00",
+        "oprice": "$65.00"
+      },
+      {
+        "id": 6,
+        "name": "Cantilever chair",
+        "img": "f.png",
+        "code": "Code - Y523201",
+        "nprice": "$42.00",
+        "oprice": "$65.00"
+      },
+      {
+        "id": 7,
+        "name": "Comfort Handy Craft",
+        "img": "g.png",
+        "code": "Code - Y523201",
+        "nprice": "$42.00",
+        "oprice": "$65.00"
+      },
+      {
+        "id": 8,
+        "name": "Comfort Handy Craft",
+        "img": "h.png",
+        "code": "Code - Y523201",
+        "nprice": "$42.00",
+        "oprice": "$65.00"
+      },
+      {
+        "id": 9,
+        "name": "Comfort Handy Craft",
+        "img": "i.png",
+        "code": "Code - Y523201",
+        "nprice": "$42.00",
+        "oprice": "$65.00"
+      },
+      {
+        "id": 10,
+        "name": "Comfort Handy Craft",
+        "img": "j.png",
+        "code": "Code - Y523201",
+        "nprice": "$42.00",
+        "oprice": "$65.00"
+      },
+      {
+        "id": 11,
+        "name": "Comfort Handy Craft",
+        "img": "k.png",
+        "code": "Code - Y523201",
+        "nprice": "$42.00",
+        "oprice": "$65.00"
+      },
+      {
+        "id": 12,
+        "name": "Comfort Handy Craft",
+        "img": "l.png",
+        "code": "Code - Y523201",
+        "nprice": "$42.00",
+        "oprice": "$65.00"
+      },
+      {
+        "id": 13,
+        "name": "Cantilever chair",
+        "img": "o.png",
+        "code": "Code - Y523201",
+        "nprice": "$26.00",
+        "oprice": "$42.00"
+      },
+      {
+        "id": 14,
+        "name": "Cantilever chair",
+        "img": "p.png",
+        "code": "Code - Y523201",
+        "nprice": "$26.00",
+        "oprice": "$42.00"
+      }
+    ],
+    "topCategory": [
+        {
+            "id": 3,
+            "name": "Cantilever chair",
+            "img": "c.png",
+            "code": "Code - Y523201",
+            "nprice": "$25.00",
+            "oprice": "$65.00"
+          },
+          {
+            "id": 4,
+            "name": "Cantilever chair",
+            "img": "d.png",
+            "code": "Code - Y523201",
+            "nprice": "$25.00",
+            "oprice": "$65.00"
+          },
+          {
+            "id": 5,
+            "name": "Cantilever chair",
+            "img": "e.png",
+            "code": "Code - Y523201",
+            "nprice": "$25.00",
+            "oprice": "$65.00"
+          },
+          {
+            "id": 6,
+            "name": "Cantilever chair",
+            "img": "f.png",
+            "code": "Code - Y523201",
+            "nprice": "$25.00",
+            "oprice": "$65.00"
+          }
+    ],
+    "blogsCard": [
+        {
+            "id": 1,
+            "img": "home1.png",
+            "head": "Top esssential Trends in 2021",
+            "para": "More off this less hello samlande lied much over tightly circa horse taped mightly"
+        },
+        {
+            "id": 2,
+            "img": "home2.png",
+            "head": "Top esssential Trends in 2021",
+            "para": "More off this less hello samlande lied much over tightly circa horse taped mightly"
+        },
+        {
+            "id": 3,
+            "img": "home3.png",
+            "head": "Top esssential Trends in 2021",
+            "para": "More off this less hello samlande lied much over tightly circa horse taped mightly"
+        }
+
+    ],
+    "trendingProducts": [
+        {
+            "id": 1,
+            "name": "Cantilever chair",
+            "img": "m.png",
+            "code": "Code - Y523201",
+            "nprice": "$26.00",
+            "oprice": "$42.00"
+          },
+          {
+            "id": 2,
+            "name": "Cantilever chair",
+            "img": "n.png",
+            "code": "Code - Y523201",
+            "nprice": "$26.00",
+            "oprice": "$42.00"
+          },
+          {
+            "id": 3,
+            "name": "Cantilever chair",
+            "img": "o.png",
+            "code": "Code - Y523201",
+            "nprice": "$26.00",
+            "oprice": "$42.00"
+          },
+          {
+            "id": 4,
+            "name": "Cantilever chair",
+            "img": "p.png",
+            "code": "Code - Y523201",
+            "nprice": "$26.00",
+            "oprice": "$42.00"
+          }
+    ],
+    "shopGrid": [
+      {
+          "id": 1,
+          "name": "Cantilever chair",
+          "img": "shopGrid.png",
+          "code": "Code - Y523201",
+          "nprice": "$26.00",
+          "oprice": "$42.00"
+        },
+        {
+          "id": 2,
+          "name": "Cantilever chair",
+          "img": "shopGrid1.png",
+          "code": "Code - Y523201",
+          "nprice": "$26.00",
+          "oprice": "$42.00"
+        },
+        {
+          "id": 3,
+          "name": "Cantilever chair",
+          "img": "shopGrid2.png",
+          "code": "Code - Y523201",
+          "nprice": "$26.00",
+          "oprice": "$42.00"
+        },
+        {
+          "id": 4,
+          "name": "Cantilever chair",
+          "img": "shopGrid3.png",
+          "code": "Code - Y523201",
+          "nprice": "$26.00",
+          "oprice": "$42.00"
+        },
+        {
+          "id": 5,
+          "name": "Cantilever chair",
+          "img": "shopGrid4.png",
+          "code": "Code - Y523201",
+          "nprice": "$26.00",
+          "oprice": "$42.00"
+        },
+        {
+          "id": 6,
+          "name": "Cantilever chair",
+          "img": "shopGrid5.png",
+          "code": "Code - Y523201",
+          "nprice": "$26.00",
+          "oprice": "$42.00"
+        },
+        {
+          "id": 7,
+          "name": "Cantilever chair",
+          "img": "shopGrid6.png",
+          "code": "Code - Y523201",
+          "nprice": "$26.00",
+          "oprice": "$42.00"
+        },
+        {
+          "id": 8,
+          "name": "Cantilever chair",
+          "img": "shopGrid7.png",
+          "code": "Code - Y523201",
+          "nprice": "$26.00",
+          "oprice": "$42.00"
+        },
+        {
+          "id": 9,
+          "name": "Cantilever chair",
+          "img": "shopGrid8.png",
+          "code": "Code - Y523201",
+          "nprice": "$26.00",
+          "oprice": "$42.00"
+        },
+        {
+          "id": 10,
+          "name": "Cantilever chair",
+          "img": "shopGrid9.png",
+          "code": "Code - Y523201",
+          "nprice": "$26.00",
+          "oprice": "$42.00"
+        },
+        {
+          "id": 11,
+          "name": "Cantilever chair",
+          "img": "shopGrid1.png",
+          "code": "Code - Y523201",
+          "nprice": "$26.00",
+          "oprice": "$42.00"
+        },
+        {
+          "id": 12,
+          "name": "Cantilever chair",
+          "img": "shopGrid4.png",
+          "code": "Code - Y523201",
+          "nprice": "$26.00",
+          "oprice": "$42.00"
+        }
+    
+  ],
+    "shopexCard": [
+        {
+            "id": 1,
+            "img": "mini1.png",
+            "name": "24/7 Support",
+            "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa purus gravida."
+        },
+        {
+            "id": 2,
+            "img": "mini2.png",
+            "name": "24/7 Support",
+            "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa purus gravida."
+        },
+        {
+            "id": 3,
+            "img": "mini3.png",
+            "name": "24/7 Support",
+            "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa purus gravida."
+        },
+        {
+            "id": 4,
+            "img": "mini4.png",
+            "name": "24/7 Support",
+            "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa purus gravida."
+        }
+    ],
+    "featuredProducts": [
+        {
+            "id": 1,
+            "name": "Cantilever chair",
+            "img": "c.png",
+            "code": "Code - Y523201",
+            "nprice": "$26.00",
+            "oprice": "$42.00"
+          },
+          {
+            "id": 2,
+            "name": "Cantilever chair",
+            "img": "d.png",
+            "code": "Code - Y523201",
+            "nprice": "$26.00",
+            "oprice": "$42.00"
+          },
+          {
+            "id": 3,
+            "name": "Cantilever chair",
+            "img": "e.png",
+            "code": "Code - Y523201",
+            "nprice": "$26.00",
+            "oprice": "$42.00"
+          },
+          {
+            "id": 4,
+            "name": "Cantilever chair",
+            "img": "f.png",
+            "code": "Code - Y523201",
+            "nprice": "$26.00",
+            "oprice": "$42.00"
+          }
+    ],
+    "listView": [
+      {
+        "id": 1,
+        "name": "Cantilever chair",
+        "img": "list1.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+        "nprice": "$26.00",
+        "oprice": "$42.00"
+      },
+      {
+        "id": 2,
+        "name": "Cantilever chair",
+        "img": "list2.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+        "nprice": "$26.00",
+        "oprice": "$42.00"
+      },
+      {
+        "id": 3,
+        "name": "Cantilever chair",
+        "img": "list3.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+        "nprice": "$26.00",
+        "oprice": "$42.00"
+      },
+      {
+        "id": 4,
+        "name": "Cantilever chair",
+        "img": "list4.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+        "nprice": "$26.00",
+        "oprice": "$42.00"
+      },
+      {
+        "id": 5,
+        "name": "Cantilever chair",
+        "img": "list5.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+        "nprice": "$26.00",
+        "oprice": "$42.00"
+      },
+      {
+        "id": 6,
+        "name": "Cantilever chair",
+        "img": "list6.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+        "nprice": "$26.00",
+        "oprice": "$42.00"
+      },
+      {
+        "id": 7,
+        "name": "Cantilever chair",
+        "img": "list7.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscing in phasellus non in justo.",
+        "nprice": "$26.00",
+        "oprice": "$42.00"
+      }
+    ]
+
+  }
+}

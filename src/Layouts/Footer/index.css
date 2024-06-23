@@ -1,0 +1,40 @@
+.footer{
+    background-color: rgba(238, 239, 251, 1);
+}
+
+.footer-btm{
+    background: rgba(231, 228, 248, 1);
+
+}
+
+.footer-links li{
+    margin-top: 10px;
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #8A8FB9;
+
+}
+
+.footer-links p{
+    font-family: 'Josefin Sans';
+font-size: 22px;
+line-height: 26px;
+
+color: #000000;
+}
+
+@media only screen and (max-width: 700px) {
+    .contact {
+      text-align: center;
+    }
+  }
+
+  @media only screen and (max-width: 1024px) {
+    .contact {
+      text-align: center;
+    }
+  }

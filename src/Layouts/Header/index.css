@@ -1,0 +1,84 @@
+.faas:hover{
+  background-color: var(--primary-color);
+}
+
+.faas:focus{
+  background-color: var(--secondary-color);
+}
+
+.header-top{
+
+    /* identical to box height */
+  
+  
+  color: #1A1A1A;
+  background-color: rgb(71, 30, 184);
+}
+
+.toggle-button{
+  background-color: white;
+  border-style: none;
+}
+
+.navbar-logo{
+
+font-family: 'Josefin Sans';
+font-size: 34px;
+line-height: 40px;
+
+color: var(--secondary-color);
+}
+
+.nav-link{
+  color: var(--secondary-color);
+}
+
+.nav-link:hover{
+  color: var(--primary-color);
+}
+
+.navbar-logo:hover{
+  color: var(--primary-color);
+}
+
+.btn-outline-success{
+  color: var(--primary-color);
+}
+
+.btn{
+  border-color: var(--primary-color);
+}
+
+.btn:hover{
+  background-color: var(--primary-color);
+}
+
+.navbar-toggler-icon{
+  color: #1A1A1A;
+}
+
+NavLink{
+  color: pink;
+}
+
+@media only screen and (max-width: 700px) {
+  .ht-l{
+    margin-right: 20px;
+  }
+  .footer-links{
+    margin-right: 20px;
+  }
+}
+
+.top-address{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 12px;
+  }
+
+  .sub-nav{
+    font-weight: 400px;
+    font-size: large;
+  }

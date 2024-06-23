@@ -1,0 +1,26 @@
+.head{
+    font-family: 'Josefin Sans';
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #151875;
+    
+}
+
+.para{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 26px;
+/* or 160% */
+
+text-align: center;
+
+color: rgba(26, 11, 91, 0.3);
+}
+
+.shopex{
+    height: 50px;
+    width: 50px;
+}

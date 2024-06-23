@@ -1,0 +1,13 @@
+.btnn2{
+    background-color: var(--primary-color);
+}
+
+.btnn2-text{
+    font-family: 'Josefin Sans';
+font-size: 17px;
+line-height: 20px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+}
