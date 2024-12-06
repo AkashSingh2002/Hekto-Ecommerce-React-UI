@@ -1,7 +1,7 @@
 import React from "react";
 import './index.css'
 import { NavbarBrand, Nav } from "reactstrap";
-import Link from "react-router-dom/Link";
+import Link from "react-router-dom";
 
 function Footer() {
   return (

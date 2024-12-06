@@ -45,7 +45,7 @@ function ShopGrid() {
 
           <Col className="col-12 col-md-7 col-xl-6">
             <Row>
-            <Col className="col-4 d-flex align-items-center">
+              <Col className="col-4 d-flex align-items-center">
   <Row className="w-100">
     <Col className="col-6 d-flex align-items-center">
       <label htmlFor="sort">

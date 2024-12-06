@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import "./index.css";
 import { Navbar, NavbarBrand, Nav, Collapse, NavItem } from "reactstrap";
-import NavLink from "react-router-dom/NavLink";
+import { NavLink }  from "react-router-dom";
 
 class Header extends Component {
   constructor(props) {
