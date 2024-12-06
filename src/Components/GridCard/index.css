@@ -1,40 +1,62 @@
-.featured{
+/* Card hover effect */
+.featured-card {
+    position: relative;
     background-color: #F6F7FB;
-}
-
-.featured-img{
+    padding: 10px;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .featured-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    border: 2px solid #FB2E86; /* Add boundary on hover */
+  }
+  
+  /* Favorite icon */
+  .favorite-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    color: #FB2E86;
+  }
+  
+  .favorite-icon:hover {
+    color: #ff476d;
+  }
+  
+  /* Image styles */
+  .featured-img {
     height: 178px;
     width: 178px;
-}
-
-.featured-head{
-    font-family: 'Lato';
-font-style: normal;
-font-weight: 700;
-font-size: 18px;
-line-height: 22px;
-/* identical to box height */
-
-
-/* pink */
-
-color: #FB2E86;
-}
-
-.featured-para{
-    font-family: 'Josefin Sans';
-font-size: 14px;
-line-height: 16px;
-
-color: #151875;
-}
-
-.latest-mini{
-    font-family: 'Josefin Sans';
-font-size: 12px;
-line-height: 14px;
-text-decoration-line: line-through;
-
-color: #FB2448;
-
-}
+    border-radius: 8px;
+    object-fit: cover;
+  }
+  
+  /* Head and paragraph styles remain unchanged */
+  .featured-head {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FB2E86;
+  }
+  
+  .featured-para {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    color: #151875;
+  }
+  
+  .latest-mini {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    text-decoration-line: line-through;
+    color: #FB2448;
+  }
+  
