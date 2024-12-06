@@ -7,7 +7,7 @@ export const ShopexCard = ({product}) => {
     
         <div className='col-6 col-sm-3'>
             <div className='d-flex justify-content-center'>
-            <img src={image} className="img-fluid shopex"/></div>
+            <img src={image} alt="Description of image" className="img-fluid shopex"/></div>
             <div className='text-center head'>{product.name}</div>
             <div className='text-center para'>{product.para}</div>
         </div>

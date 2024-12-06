@@ -23,7 +23,7 @@ export default function Home() {
         <Jumbotron>
           <div className="row container">
             <div className="col-sm-2">
-              <img src={images.JumboPic2} className="img-fluid h-jp2" />
+              <img src={images.JumboPic2} alt="Description of image" className="img-fluid h-jp2" />
             </div>
 
             <div className="col-12 col-sm-7">
@@ -46,6 +46,7 @@ export default function Home() {
             <div className="col-sm-3 container">
               <img
                 src={images.JumboPic1}
+                alt="Description of image"
                 className="img-fluid"
                 style={{ height: "450px" }}
               />
@@ -123,6 +124,7 @@ export default function Home() {
             <div className="col-6 col-sm-4">
               <img
                 src={images.o}
+                alt="Description of image"
                 className="img-fluid"
                 style={{ height: "500px", weight: "515px" }}
               />

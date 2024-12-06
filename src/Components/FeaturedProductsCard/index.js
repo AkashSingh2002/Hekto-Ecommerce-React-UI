@@ -6,7 +6,7 @@ const FeaturedProducts = ({product}) => {
   return (
     <div className='col-4 col-sm-2 mx-3'>
       <div className="row d-flex justify-content-center featured">
-        <img src={image} className="img-fluid featured-img" />
+        <img src={image} alt="Description of image" className="img-fluid featured-img" />
       </div>
       <div className="text-center featured-head">{product.name}</div>
       <div className="text-center featured-para">
